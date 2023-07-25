@@ -4,7 +4,7 @@ Created a Power BI Dashboard which helps to review and compare performances of a
 
 ## Steps:
 - ### Data Collection:
-    Scrapped all the data regarding match and world cup from www.espncricinfo.com using Beautifull Soup library of Python.
+    Scrapped all the data regarding IPL match from www.espncricinfo.com using Beautifull Soup library of Python.
     
 - ### Data Transformation:
     Performed initial data cleaning after scrapping such as player name correction, match id linking etc. using Pandas.
