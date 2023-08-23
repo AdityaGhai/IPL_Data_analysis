@@ -16,6 +16,12 @@ Created a Power BI Dashboard which helps to review and compare performances of a
 - ### Dashboarding:
     Craeted final dashboard using Power BI visuals.
     ```
+    
+
+https://github.com/AdityaGhai/IPL_Data_analysis/assets/83689540/5e6a367e-c5a7-4d9a-865a-8da0a358a3d9
+
+![Screenshot 2023-07-25 213300](https://github.com/AdityaGhai/IPL_Data_analysis/assets/83689540/32f82a5b-4f55-467b-9899-65bfcff798ae)
+
 
 ## Tools used:
 - Python -> Beautiful Soup, Pandas
