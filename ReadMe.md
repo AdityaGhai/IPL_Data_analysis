@@ -22,6 +22,7 @@ https://github.com/AdityaGhai/IPL_Data_analysis/assets/83689540/5e6a367e-c5a7-4d
 
 ![Screenshot 2023-07-25 213300](https://github.com/AdityaGhai/IPL_Data_analysis/assets/83689540/32f82a5b-4f55-467b-9899-65bfcff798ae)
 
+![Screenshot (12)](https://github.com/AdityaGhai/IPL_Data_analysis/assets/83689540/18c4c6f0-fab2-4102-945b-6082ba1d864b)
 
 ## Tools used:
 - Python -> Beautiful Soup, Pandas
